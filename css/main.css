@@ -1788,8 +1788,8 @@
     .dark_serif_font ol{
     	list-style-position: inside;
     }
-    .bull{
-    	background: url("/images/bull.jpg")no-repeat center center; 
+    .backs{
+    	background: url("/images/backs_800.jpg")no-repeat center center; 
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
